@@ -1,4 +1,4 @@
-# Products
+# Pseudocode (average test scores)
 For(integer counter = 1; counter < 10; counter++){
 
 	Prompt user for exam_score 
@@ -9,7 +9,7 @@ For(integer counter = 1; counter < 10; counter++){
 	
 
 
-# Prdoducts
+# Pseudocode (rainfall runoff)
 {
 	Prompt User for roof_dimensions
 	Get roof_dimensions
